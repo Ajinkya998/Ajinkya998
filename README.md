@@ -1,4 +1,4 @@
-<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\LinkedIn Banner" alt="GitHub Banner" width="100%" />
+<img src="LinkedIn_Banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 
