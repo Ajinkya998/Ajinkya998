@@ -1,3 +1,5 @@
+<img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\LinkedIn Banner" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 
 About Me 👨‍💻<br>Hi there! 👋 I'm Ajinkya Kharujkar, a passionate Final Year BSc IT Student and a Full-Time Flutter Developer at Trando. I specialize in building efficient, scalable, and user-friendly applications using Flutter.<br><br>🔥 Tech Stack & Skills<br>Flutter & Firebase: Cross-platform app development with Firestore, Auth, and FCM.<br>API & WebSockets: RESTful APIs, Socket.IO, and real-time data handling.<br>State Management: Expertise in BLoC, Provider, and GetX.<br>Problem-Solving: Strong debugging and optimization skills.<br>Version Control: Proficient in Git, GitHub, and GitLab.<br>Testing: Unit, widget, and integration testing.<br>Leadership: Team collaboration and mentoring.<br><br>📫 Connect with Me<br>GitHub: github.com/Ajinkya998<br>LinkedIn: linkedin.com/in/ajinkyakharujkar/<br>Email: ajinkyakharujkar987@gmail.com
