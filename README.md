@@ -2,7 +2,59 @@
 
 # 💫 About Me:
 
-About Me 👨‍💻<br>Hi there! 👋 I'm Ajinkya Kharujkar, a passionate Final Year BSc IT Student and a Full-Time Flutter Developer at Trando. I specialize in building efficient, scalable, and user-friendly applications using Flutter.<br><br>🔥 Tech Stack & Skills<br>Flutter & Firebase: Cross-platform app development with Firestore, Auth, and FCM.<br>API & WebSockets: RESTful APIs, Socket.IO, and real-time data handling.<br>State Management: Expertise in BLoC, Provider, and GetX.<br>Problem-Solving: Strong debugging and optimization skills.<br>Version Control: Proficient in Git, GitHub, and GitLab.<br>Testing: Unit, widget, and integration testing.<br>Leadership: Team collaboration and mentoring.<br><br>📫 Connect with Me<br>GitHub: www.github.com/Ajinkya998<br>LinkedIn: www.linkedin.com/in/ajinkyakharujkar/<br>Email: ajinkyakharujkar987@gmail.com
+<h2>About Me 👨‍💻</h2>
+
+<p>
+Hi there! 👋 I'm <strong>Ajinkya Kharujkar</strong>, a <strong>Flutter Developer</strong> with nearly 
+<strong>2 years of professional experience</strong> in building scalable, high-performance, 
+cross-platform mobile applications using <strong>Flutter & Dart</strong>.
+</p>
+
+<p>
+I specialize in <strong>clean architecture</strong>, <strong>responsive UI design</strong>, and 
+<strong>performance-optimized solutions</strong>, with strong hands-on experience in 
+<strong>state management (BLoC, GetX, Provider)</strong> and 
+<strong>real-time application features</strong>. I enjoy solving complex problems, optimizing 
+app performance, and delivering reliable, maintainable code aligned with business needs.
+</p>
+
+<p>
+Currently, I’m working as a <strong>Flutter Developer at NexTeir</strong>, contributing to 
+production-grade applications across domains like <strong>travel, education, fintech, 
+e-commerce, astrology, and secure examination platforms</strong>.
+</p>
+
+<h3>🔥 Tech Stack & Expertise</h3>
+
+<ul>
+  <li><strong>Flutter & Dart</strong> – Scalable cross-platform app development</li>
+  <li><strong>State Management</strong> – BLoC, GetX, Provider, Riverpod</li>
+  <li><strong>APIs & Real-Time Communication</strong> – REST APIs, WebSockets, Socket.IO</li>
+  <li><strong>Advanced Features</strong> – Deep linking (OneLink), biometric authentication, localization & white labeling</li>
+  <li><strong>Payments & Authentication</strong> – Razorpay integration, social login (Facebook SDK)</li>
+  <li><strong>Video & Chat</strong> – Zegocloud SDK (video calls, voice calls, in-app chat)</li>
+  <li><strong>Performance Optimization</strong> – ANR reduction, Dart Isolates</li>
+  <li><strong>Testing</strong> – Unit, widget, and integration testing</li>
+  <li><strong>Version Control</strong> – Git, GitHub, GitLab</li>
+  <li><strong>Deployment</strong> – Google Play Store release & version management</li>
+</ul>
+
+<h3>🏆 Highlights</h3>
+
+<ul>
+  <li>Reduced <strong>ANR rates from 2% to 0.03%</strong>, improving app stability by <strong>98.5%</strong></li>
+  <li>Recognized for <strong>clean, maintainable, and well-documented code</strong></li>
+  <li>Consistently delivered features <strong>ahead of schedule</strong> without compromising quality</li>
+</ul>
+
+<h3>📫 Connect with Me</h3>
+
+<ul>
+  <li><strong>GitHub:</strong> <a href="https://github.com/Ajinkya998" target="_blank">github.com/Ajinkya998</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ajinkyakharujkar/" target="_blank">linkedin.com/in/ajinkyakharujkar</a></li>
+  <li><strong>Email:</strong> <a href="mailto:ajinkyakharujkar987@gmail.com">ajinkyakharujkar987@gmail.com</a></li>
+</ul>
+
 
 # 💻 Tech Stack:
 
